@@ -114,8 +114,8 @@ brew install git-lfs
 brew install git-flow
 brew install git-extras
 #brew install hub #Add GitHub support to git on the command-line
-#brew install imagemagick --with-webp
-#brew install lua
+#brew install imagemagick --with-webp #editing and manipulating digital images
+#brew install lua #Powerful, lightweight programming language
 #brew install lynx
 #brew install p7zip
 #brew install pigz
